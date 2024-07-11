@@ -116,7 +116,7 @@ export const Header = () => {
       />
       <AnimatedText delay={0.25}>
         <h1 className="text-2xl md:text-7xl font-bold dark:text-white text-center">
-          React Frontend <br /> for Ghost
+          NextJS 14 <br /> Ghost Frontend
         </h1>
         <span className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200 text-center">
           <FlipWords words={words} /> your Ghost-powered blog into a visual masterpiece with this state-of-the-art React frontend. <br /> Built with the robust capabilities of Next.js, TypeScript, and the Aceternity UI library.
