@@ -53,6 +53,7 @@ export default function About() {
                     </motion.h1>
                 </AnimatedText>
 
+
                 <HeroHighlight>
                     <motion.h1
                         initial={{
@@ -67,11 +68,11 @@ export default function About() {
                             duration: 0.5,
                             ease: [0.4, 0.0, 0.2, 1],
                         }}
-                        className="text-2xl px-4 md:text-lg lg:text-lg font-bold text-neutral-700 dark:text-white max-w-4xl leading-relaxed lg:leading-snug text-center mx-auto "
+                        className="text-2xl px-4 md:text-lg lg:text-lg font-bold text-neutral-700 dark:text-white max-w-4xl leading-relaxed lg:leading-snug text-center mx-auto"
                     >
                         My journey into the tech world began in 2010 when I started dabbling in Android app development. What started as a curiosity quickly evolved into a passion, and I found myself creating rudimentary apps just for the fun of it.
                         <Highlight className="text-black dark:text-white">
-                            Now, I love creating web applications that serve a purpose, whether it's solving a problem I've encountered or bringing a cool idea to life. It's more than just a hobby—it's a way for me to continuously learn and create.
+                            Now, I love creating web applications that serve a purpose, whether it&apos;s solving a problem I&apos;ve encountered or bringing a cool idea to life. It&apos;s more than just a hobby—it&apos;s a way for me to continuously learn and create.
                         </Highlight>
                     </motion.h1>
                 </HeroHighlight>
