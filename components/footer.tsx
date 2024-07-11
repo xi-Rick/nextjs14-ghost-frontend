@@ -15,7 +15,7 @@ export function Footer() {
                                 <LinkPreview url="https://github.com/xi-Rick" className="font-bold">
                                     Github
                                 </LinkPreview>{" "}
-                                to check out what else I'm working on
+                                to check out what else I&apos;m working on
                             </p>
                             <LinkPreview
                                 url="https://danadavis.dev"

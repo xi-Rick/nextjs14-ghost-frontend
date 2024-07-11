@@ -104,7 +104,7 @@ export default function About() {
                                 <li>Sherrilyn Kenyon's works</li>
                                 <li>Owen Colfer's adventures</li>
                                 <li>Rick Riordan's mythology tales</li>
-                                <li>It's all documentation now.</li>
+                                <li>It&apos;s all documentation now.</li>
                             </ul>
                         </BackgroundGradient>
                     </AnimatedText>
