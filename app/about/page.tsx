@@ -97,13 +97,13 @@ export default function About() {
 
                     <AnimatedText delay={0.50}>
                         <BackgroundGradient className="rounded-[22px] p-6 h-full bg-neutral-900">
-                            <h2 className="text-2xl font-bold mb-4 text-white">The Bookworm's Paradise</h2>
+                            <h2 className="text-2xl font-bold mb-4 text-white">The Bookworm&apos;s Paradise</h2>
                             <p className="mb-4 text-white">My eclectic literary tastes span from YA fiction to Greek mythology.</p>
                             <ul className="list-disc list-inside text-white">
                                 <li>Harry Potter series</li>
-                                <li>Sherrilyn Kenyon's works</li>
-                                <li>Owen Colfer's adventures</li>
-                                <li>Rick Riordan's mythology tales</li>
+                                <li>Sherrilyn Kenyon&apos;s works</li>
+                                <li>Owen Colfer&apos;s adventures</li>
+                                <li>Rick Riordan&apos;s mythology tales</li>
                                 <li>It&apos;s all documentation now.</li>
                             </ul>
                         </BackgroundGradient>
