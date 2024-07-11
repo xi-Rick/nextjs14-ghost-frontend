@@ -6,7 +6,7 @@
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/xi-Rick/nextjs14-ghost-frontend)
 
-![Link Name](https://i.ibb.co/02QSTNy/image.png)
+![Link Name](https://i.ibb.co/f1RQMnn/image.png)
 
 ## Table of Contents
 
