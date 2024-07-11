@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+
+@keyframes fade-up {
+  0% {
+    opacity: 0;
+    transform: translateY(20px); /* Optional: Slide up effect */
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-up {
+  animation: fade-up 0.5s ease forwards; /* Adjust timing and easing as needed */
+}
+
+html, body {
+  height: 100%;
+}
+
+#__next {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+
+body {
+  transition: background-color 0.3s;
+}
+
+.dark body {
+  background-color: #000; /* Ensure this matches your design */
+}
+
+/* post-content.css */
+.post-content h1 {
+  @apply text-3xl font-bold mb-4 text-gray-900 dark:text-white;
+}
+
+.post-content h2 {
+  @apply text-2xl font-semibold mb-3 text-gray-800 dark:text-white;
+}
+
+.post-content h3 {
+  @apply text-xl font-medium mb-2 text-gray-700 dark:text-white;
+}
+
+.post-content p {
+  @apply text-base mb-4 dark:text-white;
+}
+
+.post-content a {
+  @apply text-blue-600 hover:text-blue-800 underline;
+}
+
+.post-content ul, .post-content ol {
+  @apply mb-4 pl-5;
+}
+
+.post-content li {
+  @apply mb-2;
+}
+
+.post-content blockquote {
+  @apply border-l-4 border-gray-300 pl-4 italic my-4;
+}
