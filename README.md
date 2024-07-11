@@ -6,7 +6,7 @@
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/xi-Rick/nextjs14-ghost-frontend)
 
-![Link Name](https://i.ibb.co/f1RQMnn/image.png)
+![Link Name](https://i.ibb.co/HCVj3rQ/image.png)
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@
 
 ## Introduction
 
-Transform your Ghost-powered blog into a visual masterpiece with this state-of-the-art React frontend. Built with the robust capabilities of Next.js, TypeScript, and the Aceternity UI library.
+Transform your Ghost-powered blog into a visual masterpiece with this state-of-the-art NextJS 14 Ghost Frontend. Built with the robust capabilities of Next.js, TypeScript, and the Aceternity UI library.
 
 ## Features
 
