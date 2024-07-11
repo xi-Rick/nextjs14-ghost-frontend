@@ -1,10 +1,10 @@
 # NextJS 14 Ghost Frontend
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fmy-nextjs-ghost-app)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fxi-Rick%2Fnextjs14-ghost-frontend)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/your-username/my-nextjs-ghost-app)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/xi-Rick/nextjs14-ghost-frontend)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/your-username/my-nextjs-ghost-app)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/xi-Rick/nextjs14-ghost-frontend)
 
 ![Link Name](https://i.ibb.co/02QSTNy/image.png)
 
